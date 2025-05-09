@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amazi Livraison</string>
+    <string name="__login__Welcome">Bienvenu,</string>
+    <string name="__login__LoginBtn">Connexion avec Masi ID</string>
+    <string name="__login__Register">Pas encore de compte ?</string>
+    <string name="__delivery__TimeLeft">Temps restant</string>
+    <string name="__delivery__NextStop">Prochain arrêt</string>
+    <string name="__delivery__DistanceLeft">Km restant</string>
+    <string name="__delivery__Add">Ajouter</string>
+    <string name="parcel_count">%1$d colis</string>
+    <string name="__delivery__StartNagigation">Démarrer la navigation</string>
+    <string name="__delivery__Stops">Arrêts</string>
+    <string name="__delivery__Time">Temps</string>
+    <string name="__delivery__Distance">Distance</string>
+    <string name="__home__DeliveryTour">Tournée de livraison</string>
+    <string name="__home__AddIcon">Ajouter</string>
+    <string name="__home__Tour">Itinéraire</string>
+    <string name="__home__Start">Démarrer</string>
+    <string name="__list__Tour">Tournée de livraison</string>
+    <string name="__list__CategoryAll">Tous</string>
+    <string name="__list__CategoryInProgress">En cours</string>
+    <string name="__list__CategoryDelivered">Livrés</string>
+    <string name="__list__CategoryMissing">Absent</string>
+    <string name="__list__EndTour">Fin de tournée</string>
+</resources>

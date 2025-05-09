@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="blue_1">#EAF2FF</color>
+    <color name="blue_2">#B4DBFF</color>
+    <color name="blue_3">#6FBAFF</color>
+    <color name="blue_4">#2897FF</color>
+    <color name="blue_5">#006FFD</color>
+
+    <color name="light_1">#FFFFFF</color>
+    <color name="light_2">#F8F9FE</color>
+    <color name="light_3">#E8E9F1</color>
+    <color name="light_4">#D4D6DD</color>
+    <color name="light_5">#C5C6CC</color>
+
+    <color name="dark_1">#8F9098</color>
+    <color name="dark_2">#71727A</color>
+    <color name="dark_3">#494A50</color>
+    <color name="dark_4">#2F3036</color>
+    <color name="dark_5">#1F2024</color>
+
+    <color name="success_1">#E7F4E8</color>
+    <color name="success_2">#3AC0A0</color>
+    <color name="success_3">#298267</color>
+
+    <color name="warning_1">#FFF4E4</color>
+    <color name="warning_2">#FFB37C</color>
+    <color name="warning_3">#E86339</color>
+
+    <color name="error_1">#FFE2E5</color>
+    <color name="error_2">#FF616D</color>
+    <color name="error_3">#ED3241</color>
+</resources>

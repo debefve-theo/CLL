@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Amazi Delivery</string>
+
+    <string name="__login__Welcome">Welcome,</string>
+    <string name="__login__LoginBtn">Login with Masi ID</string>
+    <string name="__login__Register">No account yet ?</string>
+    <string name="__delivery__TimeLeft">Time Left</string>
+    <string name="__delivery__NextStop">Next stop</string>
+    <string name="__delivery__DistanceLeft">Km left</string>
+    <string name="__delivery__Add">Add</string>
+
+    <string name="parcel_count">%1$d packages</string>
+    <string name="__login__LoginImage" translatable="false">Login Image</string>
+    <string name="__login__MenuIcon" translatable="false">Menu Icon</string>
+    <string name="__delivery__PackageImage" translatable="false">Package Image</string>
+    <string name="__delivery__ClockIcon" translatable="false">Clock Icon</string>
+    <string name="__delivery__MarkerIcon" translatable="false">Marker Icon</string>
+    <string name="__delivery__StartNagigation">Start navigation</string>
+    <string name="__delivery__Stops">Stops</string>
+    <string name="__delivery__Time">Time</string>
+    <string name="__delivery__Distance">Distance</string>
+    <string name="__delivery__Scanner" translatable="false">Scanner</string>
+    <string name="__home__DeliveryTour">Delivery tour</string>
+    <string name="__home__LogoutIcon" translatable="false">Logout Icon</string>
+    <string name="__home__AddIcon">Add</string>
+    <string name="__home__Tour">Route</string>
+    <string name="__home__Start">Start</string>
+    <string name="__list__Tour">Delivery tour</string>
+    <string name="__list__CategoryAll">All</string>
+    <string name="__list__CategoryInProgress">Ongoing</string>
+    <string name="__list__CategoryDelivered">Delivered</string>
+    <string name="__list__CategoryMissing">Away</string>
+    <string name="__list__EndTour">End of the tour</string>
+    <string name="__map__BackIcon" translatable="false">Back Icon</string>
+    <string name="__qrcode__ScannerIcon" translatable="false">Scanner</string>
+    <string name="__itempackage__PackageIcon" translatable="false">Package Icon</string>
+    <string name="__login__Email">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="__login__Auth">Authentication code</string>
+</resources>
