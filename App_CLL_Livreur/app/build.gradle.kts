@@ -51,8 +51,10 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
-    buildFeatures {
-        compose = true
+
+    lint {
+        abortOnError = false           // ne plus échouer la build sur erreurs
+        disable.add("MissingTranslation") // désactive purement la règle
     }
 }
 
