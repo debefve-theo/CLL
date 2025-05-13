@@ -12,6 +12,9 @@ jobs:
   sonar:
     name: SonarQube Scan
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: App_CLL_Livreur
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
