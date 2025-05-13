@@ -26,9 +26,11 @@ android {
         if (localPropertiesFile.exists()) {
             localProperties.load(FileInputStream(localPropertiesFile))
         }
-        val googleMapsApiKey = localProperties.getProperty("GOOGLE_MAPS_API_KEY") ?: "\"YOUR_DEFAULT_API_KEY\""
+        val googleMapsApiKey = localProperties.getProperty("GOOGLE_MAPS_API_KEY")
+            ?: "YOUR_DEFAULT_API_KEY"
         buildConfigField("String", "MAPS_API_KEY", "\"$googleMapsApiKey\"")
         manifestPlaceholders["MAPS_API_KEY"] = googleMapsApiKey
+
     }
 
     buildFeatures {
