@@ -34,7 +34,12 @@
     <string name="__map__BackIcon" translatable="false">Back Icon</string>
     <string name="__qrcode__ScannerIcon" translatable="false">Scanner</string>
     <string name="__itempackage__PackageIcon" translatable="false">Package Icon</string>
-    <string name="__login__Email">Email</string>
+    <string
+    name="__login__Email"
+    tools:ignore="MissingTranslation"
+    xmlns:tools="http://schemas.android.com/tools">
+    Email
+</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="__login__Auth">Authentication code</string>
