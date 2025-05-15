@@ -55,6 +55,8 @@ jobs:
           args: >
             -Dsonar.projectKey=CLL
             -Dsonar.projectName=CLL
+            -Dsonar.sources=src/main/java
+            -Dsonar.java.binaries=build/intermediates/javac/debug/compileDebugJavaWithJavac
         env:
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
           SONAR_TOKEN:    ${{ secrets.SONAR_TOKEN }}
