@@ -51,8 +51,7 @@ jobs:
       - name: SonarQube Scan & Quality Gate
         uses: sonarsource/sonarqube-scan-action@v5
         with:
-          projectBaseDir: App_CLL_Livreur
-          # passez vos options Gradle si besoin :
+          projectBaseDir: App_CLL_Livreur/app
           args: >
             -Dsonar.projectKey=CLL
             -Dsonar.projectName=CLL
